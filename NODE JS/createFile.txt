@@ -1,0 +1,1 @@
+i am writing in this fileHello, i am creating the file name createFile.txtHello, i am appending string in existing file
